@@ -1,14 +1,14 @@
-# Hi there, I'm Emmanuel Chidi👋
+# Hi there, I'm  Chidi👋
 
 ![Header](https://avatars.githubusercontent.com/u/88337364?v=4&size=64)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Your Name's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuelmelvin&show_icons=true&theme=radical" alt="Your Name's GitHub Stats">
 </p>
 
 ## About Me
 
-- 🔭 I’m currently working on [Your Project](https://github.com/Dockerinit1.0)
+- 🔭 I’m currently working on [Dockerinit](https://github.com/Emmanuelmelvin/Dockerinit1.0)
 - 🌱 I’m currently learning [Containerization and Kubernetes]
 - 👯 I’m looking to collaborate on [NodeJS projects and DevOps]
 - 💬 Ask me about [Topic]
